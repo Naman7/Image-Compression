@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
-img = cv2.imread("C:/Users/Naman/Desktop/Cr7.jpg",0)
+img = cv2.imread("Cr7.jpg",0)
 
 a = np.asarray(img)
 
