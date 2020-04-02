@@ -1,5 +1,5 @@
 # Image-Compression
 
-This script shows the affect of quality on the storage and computation for an image.
+This script shows how the quality of an image affects the storage and computation required.
 
 Caveat: this only works for black and white images.
